@@ -1,0 +1,124 @@
+Uri: https://prom.patternt.shop/
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\index.htm
+Content Type: text/html
+
+Uri: https://prom.patternt.shop/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/css/normalize.css
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\css\normalize.css
+Content Type: text/css
+
+Uri: https://prom.patternt.shop/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://prom.patternt.shop/css/main.css
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\css\main.css
+Content Type: text/css
+
+Uri: https://prom.patternt.shop/reg-form/intlTelInput.css
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\reg-form\intlTelInput.css
+Content Type: text/css
+
+Uri: https://prom.patternt.shop/img/logo.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\logo.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/icon-user.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\icon-user.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/icon-email.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\icon-email.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/partners.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\partners.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/whatsapp.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\whatsapp.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/viber.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\viber.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/facebook.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\facebook.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/vkontakte.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\vkontakte.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/gears.jpg
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\gears.jpg
+Content Type: image/jpeg
+
+Uri: https://prom.patternt.shop/img/1.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\1.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/2.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\2.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/3.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\3.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/4.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\4.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/5.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\5.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/6.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\6.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/img/cross.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\cross.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/js/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://prom.patternt.shop/js/main.js
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\js\main.js
+Content Type: application/javascript
+
+Uri: https://prom.patternt.shop/reg-form/reg.min.v2.js
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\reg-form\reg.min.v2.js
+Content Type: application/javascript
+
+Uri: https://prom.patternt.shop/geo.js
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\geo.js
+Content Type: application/javascript
+
+Uri: https://prom.patternt.shop/img/bg2.jpg
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://prom.patternt.shop/img/bg3.jpg
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\img\bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700&subset=cyrillic
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\css.css
+Content Type: text/css
+
+Uri: https://prom.patternt.shop/reg-form/flags.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\reg-form\flags.png
+Content Type: image/png
+
+Uri: https://prom.patternt.shop/reg-form/flags@2x.png
+File Name: C:\Downloaded Web Sites\prom.patternt.shop\reg-form\flags@2x.png
+Content Type: image/png
+
